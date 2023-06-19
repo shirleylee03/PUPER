@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<property-set xmlns="http://mcc.lip6.fr/">
+    <property>
+        <id>test</id>
+        <description>Automatically generated</description>
+        <formula>
+            <all-paths>
+                <globally>
+                    <less>
+                        <variable>
+                            <name>shared</name>
+                        </variable>
+                        <int-constant>
+                            15
+                        </int-constant>
+                    </less>
+                </globally>
+            </all-paths>
+        </formula>
+    </property>
+</property-set>
